@@ -1,0 +1,15 @@
+.ota{
+    display: flex;
+    flex-direction: column;
+    place-items: 10px;
+    gap: 10px;
+    background-color: #fff;
+    margin: 50px;
+    border-radius: 5px;
+}
+.rasm{
+    width: 80px;
+}
+.input{
+    width: 200px;
+}
